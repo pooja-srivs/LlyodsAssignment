@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Llyods Assignment</string>
+    <string name="no_internet_connection">No Internet Connection</string>
+    <string name="cat_image_details">Cat Image Details</string>
+    <string name="back">Back</string>
+    <string name="image_id">Image ID: %1$s</string>
+    <string name="width">Width: %1$s</string>
+    <string name="height">Height: %1$s</string>
+    <string name="failed_to_load_the_data">Failed to load the data</string>
+    <string name="cat_image_listing">Cat Image Listing</string>
+
+</resources>
